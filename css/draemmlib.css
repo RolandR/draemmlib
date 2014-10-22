@@ -6,3 +6,6 @@
 @import url(style.css);
 
 @import url(layouts/general.css);
+@import url(layouts/horizontalWithMenu.css);
+
+@import url(themes/lightblue.css);

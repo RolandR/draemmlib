@@ -1,0 +1,12 @@
+.dr-t-lightblue header,
+.dr-t-lightblue footer{
+	background-color: #8888AA;
+}
+
+.dr-t-lightblue nav{
+	background-color: #DDDDEE;
+}
+
+.dr-t-lightblue a{
+	color: #0055FF;
+}
